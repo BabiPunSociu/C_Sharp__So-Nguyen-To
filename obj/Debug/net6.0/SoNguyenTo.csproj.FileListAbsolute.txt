@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\SoNguyenTo\bin\Debug\net6.0\SoNguyenTo.exe
+C:\Users\ADMIN\source\repos\SoNguyenTo\bin\Debug\net6.0\SoNguyenTo.deps.json
+C:\Users\ADMIN\source\repos\SoNguyenTo\bin\Debug\net6.0\SoNguyenTo.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SoNguyenTo\bin\Debug\net6.0\SoNguyenTo.dll
+C:\Users\ADMIN\source\repos\SoNguyenTo\bin\Debug\net6.0\SoNguyenTo.pdb
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.dll
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\refint\SoNguyenTo.dll
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.pdb
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\SoNguyenTo.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\SoNguyenTo\obj\Debug\net6.0\ref\SoNguyenTo.dll

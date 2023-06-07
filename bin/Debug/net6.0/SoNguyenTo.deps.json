@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SoNguyenTo/1.0.0": {
+        "runtime": {
+          "SoNguyenTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoNguyenTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
